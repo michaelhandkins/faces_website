@@ -1,4 +1,6 @@
 @import "bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
 
 body {
   background: image_url('Faces_1');
@@ -9,4 +11,8 @@ body {
 
 .navbar {
   background: image_url('papyrus-dark');
+}
+
+.gallery-pic {
+
 }
