@@ -3,7 +3,11 @@
 @import "font-awesome";
 
 body {
-  background: image_url('Faces_1');
+  background: image_url('Faces_1') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   font-family: 'Poppins', sans-serif;
   color: white;
 
