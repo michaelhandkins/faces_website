@@ -17,6 +17,14 @@ body {
   background: image_url('papyrus-dark');
 }
 
+.navbar-brand {
+  height: 80px;
+}
+
+.navbar-brand img {
+  height: 70px;
+}
+
 .gallery-pic {
   width: 100%;
   border:3px solid white;
