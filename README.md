@@ -1,24 +1,22 @@
-# README
+Faces Website
+=============
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a promotional website for Hip-Hop artist Antoine Bishop's upcoming album entitled "Faces."
 
-Things you may want to cover:
+Technologies Used
+-----------------
 
-* Ruby version
+  * Ruby, v. 2.5.3
+  * Rails
+  * Bootstrap
+  * HTML5/CSS3
 
-* System dependencies
+Description
+-----------
 
-* Configuration
+This site features a mobile friendly-landing page with the album's teaser video embedded from YouTube. The stylish navbar includes the album logo as a home button, icons as links to each of the rapper's social media profiles, and an icon that leads to the website's mobile-friendly photo gallery.
 
-* Database creation
+![](images/home.PNG)
+![](images/facesgallery.JPG)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This site is temporarily deployed at https://faces-handkins.herokuapp.com/
