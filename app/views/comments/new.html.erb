@@ -1,0 +1,13 @@
+<br />
+<div class="booyah-box col-10 offset-1">
+  <br />
+
+  <%= simple_form_for @comment do |f| %>
+    <%= f.input :body %>
+    <%= f.input :name %>
+    <br />
+    <%= f.submit "Add Comment", class: 'btn btn-primary' %>
+  <% end %>
+  <br />
+</div>
+
